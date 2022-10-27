@@ -1,0 +1,10 @@
+.logo {
+    max-width: 150px;
+}
+
+@media only screen and (min-width: 992px) {
+    .right-side {
+        right: 60px !important;
+        position: absolute;
+    }
+}

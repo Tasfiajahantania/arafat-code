@@ -1,0 +1,18 @@
+.author-avatar {
+    max-width: 30px !important;
+    border-radius: 50% !important;
+}
+
+.primary-custom {
+    background: #6230ef !important;
+    border: none !important;
+}
+
+.right-arrow {
+    background: #fff;
+    border-radius: 50%;
+    color: #6230ef;
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+}

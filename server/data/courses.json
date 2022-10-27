@@ -1,0 +1,123 @@
+
+[
+{
+
+  "_id":"0282e0e58a5c404fbd15261f11c2ab6a",
+  "title":"Angular - The Complete Guide",
+  "category_id":"01",
+  "duration":"12 Months",
+  "assignment":"6",
+  "student":"200",
+  "price":"100",
+  "author":{
+    "name":"Rafeh Qazi",
+    "img":"https://avatars.githubusercontent.com/u/8461930?v=4"
+
+  },
+  "thumbnail_url":"https://i.ibb.co/pZZhF7X/angular-course.png",
+  "description":"Join the most comprehensive and bestselling Angular course on Udemy and learn all about this amazing framework from the ground up, in great depth!"
+
+
+
+},
+{
+
+  "_id":"0282e0e58a5c905fbd15261f87c2ab6a",
+  "title":"React - Basic in just 1 hour",
+  "category_id":"02",
+  "duration":"6 Months",
+  "assignment":"3",
+  "student":"120",
+  "price":"50",
+  "author":{
+    "name":"Sonny Singha",
+    "img":"https://avatars.githubusercontent.com/u/24712956?v=4"
+
+  },
+  "thumbnail_url":"https://i.ibb.co/qs299Ld/react-course.png",
+  "description":"This short course will cover basic and core concepts that you need to know to get up and running with ReactJS."
+
+
+
+},
+{
+
+  "_id":"0100e0e58a5c100fbd15261f87c2ab6a",
+  "title":"JavaScript from Beginner to Expert",
+  "category_id":"04",
+  "duration":"8 Months",
+  "assignment":"8",
+  "student":"30",
+  "price":"80",
+  "author":{
+    "name":"Alex Singha",
+    "img":"https://avatars.githubusercontent.com/u/24712956?v=4"
+
+  },
+  "thumbnail_url":"https://i.ibb.co/vqDgwyQ/javascript-course.png",
+  "description":"Would you like to learn JavaScript and become a good earning front-end developer?"
+
+
+
+},
+{
+
+  "_id":"0100e0e58a5c100fbd15000f87c2xTpJ",
+  "title":"Laravel for Beginner to advance",
+  "category_id":"06",
+  "duration":"12 Months",
+  "assignment":"12",
+  "student":"500",
+  "price":"350",
+  "author":{
+    "name":"Adam Johnson",
+    "img":"https://avatars.githubusercontent.com/u/857609?s=96&v=4"
+
+  },
+  "thumbnail_url":"https://i.ibb.co/N72QSmv/laravel-course.png",
+  "description":"Right now on Laravel 7.10 but of course as new versions come out, I will keep updating the course."
+
+
+
+},
+{
+
+  "_id":"0100e0e56a3c100fbd15000x67c2xTpJ",
+  "title":"The Modern Python 3 Bootcamp",
+  "category_id":"05",
+  "duration":"6 Months",
+  "assignment":"12",
+  "student":"49",
+  "price":"299",
+  "author":{
+    "name":"NachoSoto",
+    "img":"https://avatars.githubusercontent.com/u/685609?s=96&v=4"
+
+  },
+  "thumbnail_url":"https://i.ibb.co/Mh5nDPp/paython-course.png",
+  "description":"This short course will cover basic and core concepts that you need to know to get up and running with ReactJS."
+
+
+
+},
+{
+
+  "_id":"1223e0F00a3c100fbd15000x67c2xTpJ",
+  "title":"Bulid Web App With Vue 3",
+  "category_id":"03",
+  "duration":"6 Months",
+  "assignment":"4",
+  "student":"60",
+  "price":"99",
+  "author":{
+    "name":"Bram Gerritsen",
+    "img":"https://avatars.githubusercontent.com/u/18511905?s=96&v=4"
+
+  },
+  "thumbnail_url":"https://i.ibb.co/k2GwCn9/vue-course.png",
+  "description":"Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python."
+
+
+
+}
+]
